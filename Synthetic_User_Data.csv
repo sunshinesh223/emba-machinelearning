@@ -1,0 +1,101 @@
+user_id,age,location,hobbies,linkage,characteristics,likes_pet_photos,clicks_john_share,clicks_discount_news,clicks_election_news,likes_music_videos,clicks_food_blog,shares_funny_memes,clicks_health_articles,past_campaign_success
+001,55,Bergen,tech,150,analytical,7,4,3,21,23,17,5,18,sms_clicked
+002,17,Oslo,biking,129,calm,19,0,17,6,22,20,34,13,email_opened
+003,43,Stavanger,memes,91,sarcastic,10,8,4,6,30,10,6,2,sms_clicked
+004,21,Bodø,"gaming, pets",32,impulsive,17,3,12,2,17,9,23,18,email_opened
+005,19,Oslo,"biking, memes, pets",50,analytical,27,3,12,8,14,20,23,5,sms_clicked
+006,37,Trondheim,"pets, tech, music",341,introvert,19,20,5,17,23,7,10,14,sms_clicked
+007,32,Trondheim,"cooking, tiktok, memes",38,analytical,26,1,10,12,8,2,13,18,social_shared
+008,35,Trondheim,"travel, reading, music",244,dreamer,8,4,7,23,17,17,16,23,social_shared
+009,42,Drammen,"biking, hiking",270,impulsive,2,24,1,3,4,20,10,25,social_shared
+010,42,Bergen,"reading, gaming",249,calm,8,17,0,21,23,3,34,24,sms_clicked
+011,36,Bergen,"reading, hiking",242,extrovert,30,23,8,16,24,5,32,3,social_shared
+012,34,Trondheim,cooking,400,dreamer,17,24,16,0,19,10,31,0,email_opened
+013,38,Stavanger,singing,133,introvert,2,23,15,2,24,17,8,4,social_shared
+014,45,Tromsø,"fashion, tiktok",320,sarcastic,30,6,17,24,23,6,19,12,social_shared
+015,38,Kristiansand,"travel, dancing, biking",125,introvert,10,0,18,17,7,18,14,0,email_opened
+016,55,Oslo,dancing,26,warm,2,16,7,8,21,15,13,17,email_opened
+017,51,Kristiansand,memes,252,sarcastic,6,3,3,21,13,11,27,13,sms_clicked
+018,18,Bergen,reading,382,warm,25,3,7,6,6,17,28,4,sms_clicked
+019,26,Stavanger,"biking, tiktok",48,impulsive,25,17,3,1,20,17,0,2,email_opened
+020,25,Drammen,"travel, biking",215,extrovert,5,12,0,12,8,14,18,13,social_shared
+021,50,Kristiansand,biking,161,analytical,30,1,18,23,17,1,20,1,email_opened
+022,52,Kristiansand,"gardening, tiktok, fashion",90,extrovert,30,16,2,5,2,19,4,21,email_opened
+023,40,Bergen,"biking, gaming, tiktok",30,introvert,13,21,18,18,16,10,16,6,social_shared
+024,35,Trondheim,"reading, hiking",353,fun,14,10,2,0,14,19,6,2,social_shared
+025,28,Stavanger,gardening,188,introvert,28,7,11,9,5,14,34,22,sms_clicked
+026,54,Oslo,"tiktok, fashion, pets",349,introvert,30,4,8,3,28,3,35,4,sms_clicked
+027,33,Trondheim,"cooking, biking, music",334,fun,16,15,8,1,2,20,27,8,email_opened
+028,15,Bodø,music,144,dreamer,23,14,17,22,13,17,0,3,email_opened
+029,24,Oslo,"gaming, fashion",85,sarcastic,4,1,9,11,28,1,22,6,social_shared
+030,30,Bergen,"memes, fashion",218,dreamer,29,7,5,25,25,5,26,0,email_opened
+031,36,Drammen,"tiktok, tech, memes",137,fun,5,25,3,12,27,1,30,7,email_opened
+032,44,Bodø,"tiktok, memes",126,analytical,0,21,6,12,10,8,4,24,sms_clicked
+033,37,Drammen,"tiktok, fashion, cooking",24,introvert,28,8,5,18,30,8,2,3,social_shared
+034,42,Bodø,"memes, cooking, reading",320,calm,3,12,18,6,8,1,27,0,social_shared
+035,49,Trondheim,"reading, dancing",350,warm,19,10,3,23,28,9,32,9,social_shared
+036,41,Bodø,"tech, pets",293,dreamer,6,13,12,21,23,5,19,12,social_shared
+037,15,Stavanger,"biking, reading",306,warm,14,14,14,21,6,16,30,25,social_shared
+038,25,Bergen,"fashion, music",334,warm,2,24,7,21,9,7,12,4,email_opened
+039,17,Trondheim,"gaming, tiktok",47,impulsive,13,20,18,6,22,12,31,12,email_opened
+040,24,Oslo,memes,227,analytical,5,25,16,14,1,17,15,3,sms_clicked
+041,23,Kristiansand,"fashion, gardening, gaming",172,impulsive,19,23,16,13,26,17,28,5,social_shared
+042,45,Kristiansand,"memes, biking",336,fun,24,24,16,15,20,7,17,14,email_opened
+043,33,Trondheim,"cooking, gardening",286,introvert,4,4,7,12,22,4,13,2,sms_clicked
+044,41,Bodø,"travel, reading, singing",115,sarcastic,12,24,18,22,0,18,24,15,email_opened
+045,37,Stavanger,"tiktok, gardening",224,calm,23,23,17,25,19,7,31,7,sms_clicked
+046,42,Kristiansand,reading,182,sarcastic,23,5,14,4,19,17,1,12,social_shared
+047,51,Oslo,music,229,dreamer,27,14,5,1,8,12,20,6,sms_clicked
+048,35,Bodø,"pets, memes",225,fun,26,2,15,0,23,17,3,11,email_opened
+049,19,Oslo,biking,112,extrovert,19,4,7,4,15,3,13,14,social_shared
+050,31,Bodø,gaming,320,introvert,24,5,9,3,18,0,19,18,social_shared
+051,39,Drammen,"biking, dancing, gaming",363,analytical,3,22,9,21,19,3,2,11,social_shared
+052,42,Bodø,fashion,341,warm,0,13,15,3,13,11,29,22,email_opened
+053,42,Tromsø,"fashion, music, pets",325,calm,24,15,14,13,26,18,17,10,email_opened
+054,20,Stavanger,"biking, memes",247,sarcastic,10,0,15,10,5,15,13,11,sms_clicked
+055,36,Stavanger,"tech, pets, fashion",15,calm,30,6,2,7,23,13,31,17,email_opened
+056,45,Kristiansand,"memes, singing",57,fun,7,12,7,9,21,18,23,15,social_shared
+057,48,Bodø,"tech, fashion",179,warm,22,14,8,9,8,7,7,23,email_opened
+058,35,Bergen,"fashion, memes, tech",104,analytical,6,23,15,8,23,18,33,19,sms_clicked
+059,21,Trondheim,"biking, cooking",101,fun,0,22,17,4,8,1,3,17,sms_clicked
+060,23,Kristiansand,tiktok,16,fun,15,15,14,10,5,1,16,15,email_opened
+061,19,Drammen,"dancing, gaming",332,extrovert,4,4,18,9,2,7,7,17,sms_clicked
+062,53,Trondheim,"reading, travel, tiktok",162,sarcastic,9,18,19,1,19,3,13,20,email_opened
+063,31,Bergen,biking,98,calm,2,5,0,13,14,19,30,9,email_opened
+064,29,Stavanger,"pets, tech, travel",46,analytical,29,8,20,18,21,6,27,3,social_shared
+065,29,Tromsø,"tiktok, hiking",46,extrovert,5,25,9,19,23,18,18,14,email_opened
+066,44,Stavanger,"reading, pets, fashion",286,impulsive,14,2,19,1,28,13,20,19,sms_clicked
+067,16,Bergen,music,304,extrovert,24,21,8,18,1,5,30,16,social_shared
+068,43,Stavanger,gaming,233,impulsive,2,15,11,13,10,10,6,5,sms_clicked
+069,41,Kristiansand,"music, reading",399,calm,1,14,2,10,8,10,7,24,sms_clicked
+070,47,Oslo,"tiktok, fashion, travel",221,extrovert,6,16,11,19,24,15,28,24,email_opened
+071,28,Stavanger,"hiking, pets, travel",367,impulsive,3,0,20,19,25,7,10,9,social_shared
+072,15,Drammen,biking,68,impulsive,30,3,20,4,15,9,32,22,sms_clicked
+073,41,Kristiansand,"biking, travel",292,dreamer,12,6,19,16,23,4,4,8,sms_clicked
+074,36,Stavanger,pets,381,fun,26,18,18,21,15,4,28,17,sms_clicked
+075,37,Bodø,"memes, fashion, reading",243,warm,27,6,7,18,12,7,26,1,sms_clicked
+076,45,Drammen,"music, memes",343,dreamer,15,1,4,16,30,18,21,3,sms_clicked
+077,21,Kristiansand,tech,83,sarcastic,27,20,4,2,15,8,21,19,social_shared
+078,40,Bergen,"tiktok, music",283,sarcastic,30,10,20,22,28,15,34,1,social_shared
+079,19,Trondheim,"music, pets, biking",392,introvert,13,3,20,22,27,3,28,5,social_shared
+080,34,Oslo,cooking,38,fun,11,11,13,4,7,16,26,18,social_shared
+081,26,Tromsø,dancing,322,sarcastic,19,21,7,15,29,18,9,7,sms_clicked
+082,55,Stavanger,"pets, music",14,impulsive,28,9,17,5,2,14,22,18,sms_clicked
+083,55,Drammen,"pets, travel, gardening",111,sarcastic,27,15,3,7,12,18,22,18,sms_clicked
+084,33,Oslo,"reading, pets, singing",299,extrovert,29,19,15,9,24,7,22,7,social_shared
+085,27,Stavanger,"memes, tech, gardening",347,dreamer,20,3,20,20,1,9,28,1,social_shared
+086,38,Tromsø,gardening,161,warm,23,13,5,6,4,17,23,16,social_shared
+087,32,Tromsø,"gardening, tiktok",256,fun,23,10,3,14,30,2,9,24,email_opened
+088,40,Bodø,memes,212,extrovert,8,17,3,14,11,8,24,20,sms_clicked
+089,21,Trondheim,"singing, gaming",297,warm,29,19,7,20,2,20,29,22,sms_clicked
+090,41,Bergen,singing,29,fun,15,3,3,7,28,17,8,12,sms_clicked
+091,38,Drammen,"tech, gardening, hiking",222,introvert,26,15,19,13,30,8,2,22,sms_clicked
+092,28,Kristiansand,"biking, tiktok",195,introvert,21,11,17,20,11,1,25,8,email_opened
+093,22,Kristiansand,music,118,extrovert,1,25,10,7,4,18,13,2,social_shared
+094,28,Trondheim,cooking,85,extrovert,8,4,4,17,8,5,7,21,email_opened
+095,23,Oslo,"memes, gardening",131,warm,0,5,8,1,4,13,33,3,social_shared
+096,19,Kristiansand,"memes, cooking",272,introvert,14,16,7,19,1,16,19,14,social_shared
+097,16,Oslo,"tiktok, reading",228,introvert,15,22,14,2,28,2,20,19,email_opened
+098,19,Tromsø,"gaming, music",309,calm,22,10,12,19,16,9,29,16,social_shared
+099,42,Bergen,"dancing, tiktok, music",343,calm,23,6,13,14,28,7,26,10,sms_clicked
+100,40,Drammen,"dancing, cooking, reading",170,fun,11,4,15,2,2,2,5,13,email_opened
